@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me :
 
 🔭 I am currently working on Telegram client projects<br>🤓 I am currently studying and learning<br>😅 I am trying to achieve my goal<br>⚡ Fun fact : I started programming when I was 13 years old :)
@@ -26,12 +24,14 @@
 
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Tak-Pesar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tak-Pesar&theme=dark&hide_border=false)<br/>
+![](https://git-hub-streak-stats.vercel.app?user=Tak-Pesar&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tak-Pesar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
 
-[![](https://visitcount.itsvg.in/api?id=Tak-Pesar&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=Tak-Pesar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 ## 💰 You can help me by Donating
 
