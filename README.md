@@ -5,7 +5,7 @@
 
 ## 🌐 Socials :
 
-[![Telegram](https://img.shields.io/badge/Telegram-%230E86D4.svg?logo=Telegram&logoColor=white)](https://instagram.com/unknownprogramer)
+[![Telegram](https://img.shields.io/badge/Telegram-%230E86D4.svg?logo=Telegram&logoColor=white)](https://t.me/AsirRam)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unknownprogramer)
 
 # 💻 Tech Stack :
